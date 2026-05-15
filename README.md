@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/LOGO.png" alt="XcodeBazelMCP" width="200">
+  <img src="page/LOGO.png" alt="XcodeBazelMCP" width="200">
 </p>
 
 # XcodeBazelMCP
